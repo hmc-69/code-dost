@@ -4,12 +4,6 @@
 
 Code-Dost is an innovative AI-powered debugging assistant designed specifically for Indian engineering students. It transforms English-only programming error messages into culturally relevant, educational explanations in native Indian languages, helping millions of Tier 2/3 students overcome language barriers in programming education.
 
-## 🚀 Hackathon Submission
-
-**Event**: AI for Bharat (Hack2Skill)  
-**Track**: AI for Learning & Developer Productivity (Student Track)  
-**Submission Type**: Conceptual (No Code Implementation)
-
 ## 🎯 Problem Statement
 
 Millions of Indian students understand programming logic but struggle to debug code because:
